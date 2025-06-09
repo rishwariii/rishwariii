@@ -8,16 +8,13 @@ I'm a Full Stack Software Engineer and Computer Science grad student at Purdue U
   - Frontend Engineering (React, TypeScript, Material UI)
   - Full Stack Development & Cloud Architecture
   - Building developer tools and products with great UX
-  - Automation & Testing (Cypress, Pytest)
 
 - 🌱 I’m currently learning:
   - Advanced cloud architecture with AWS
   - Backend frameworks like FastAPI
-  - AI for software testing and automation
 
 - 💞️ I’m looking to collaborate on:
   - Open-source React projects
-  - Frontend testing automation tools
   - Scalable web platforms for productivity or education
 
 - 📫 Reach me at:
